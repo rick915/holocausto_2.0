@@ -1,0 +1,104 @@
+.image_width{
+    width: 400px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+.image2_width{
+    width: 300;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    
+}
+
+.img3{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    width:400px;
+}
+body{
+    background-color: rgb(43, 40, 40);
+    
+}
+
+h1{
+    color: black;
+    padding-left: 15px;
+}
+
+h2{
+    color: red;
+    padding-left: 15px;
+    font-size: 25px;
+}
+
+h4{
+    color:white;
+    padding-left:15px;
+    padding-right:15px;
+    font-size: 18px;
+}
+
+h3{
+    color: black;
+    padding-left:15px;
+    padding-right:15px;
+    font-size: 18px;
+}
+
+h4{
+    color:white;
+    padding-left:15px;
+    padding-right:15px;
+    font-size: 18px;
+}
+
+.p1{
+    color:white;
+    padding-left:15px;
+    padding-right:15px;
+    font-size: 18px;
+    padding-top: 0px;
+}
+
+.p2{
+    color:white;
+    padding-left:15px;
+    padding-right:15px;
+    font-size: 18px;
+    padding-top: 0px;
+}
+
+.p3{
+    color:white;
+    padding-left:15px;
+    padding-right:15px;
+    font-size: 18px;
+    padding-top: 0px;
+}
+
+.p4{
+    color:white;
+    padding-left:15px;
+    padding-right:15px;
+    font-size: 18px;
+    padding-top: 0px;
+    padding-bottom:px
+}
+
+.Voltar{
+    margin-left: 1800px;
+    color: red;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: red;
+    color: black;
+    padding: 3px;
+    border-radius: 10px;
+    text-decoration: none;
+}
