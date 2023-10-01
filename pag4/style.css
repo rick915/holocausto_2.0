@@ -1,0 +1,43 @@
+* {
+    background-color: rgb(43, 40, 40);
+}
+
+a {
+    color: red;
+    font-size: 25px;
+    justify-content: center;
+    text-decoration: none;
+    margin-left: 820px;
+}
+
+li {
+    list-style: none;
+    text-decoration: none;
+}
+
+a:hover{
+    padding: 3px;
+    background-color: red;
+    color: black;
+    border-radius: 10px;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+img {
+    width: 600px;
+}
